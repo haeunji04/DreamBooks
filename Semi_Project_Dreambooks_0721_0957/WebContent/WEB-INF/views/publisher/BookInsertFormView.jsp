@@ -111,7 +111,7 @@ function bookValidate(){
 	}
 
 	//도서가격 0으로 시작X, 숫자만 입력가능, 공백 X
-	if(!/^[1-9][0-9]\S/g.test($price.val())) {
+	if(!/^[1-9][0-9]*$/g.test($price.val())) {
 		alert("도서가격을 정확히 입력해주세요.")
 		return false;
 	}
