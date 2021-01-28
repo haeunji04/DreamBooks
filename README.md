@@ -40,7 +40,7 @@
 ![img](https://user-images.githubusercontent.com/66937966/106143852-b4c9d380-61b6-11eb-9139-0d1dccbb9f40.png)
   
 - 메인: 로그인 후
-![img](https://user-images.githubusercontent.com/66937966/106144628-ceb7e600-61b7-11eb-8f60-f9bec395e20f.jpg)
+![메인](https://user-images.githubusercontent.com/66937966/106147546-52bf9d00-61bb-11eb-82a8-c1632e277ae5.jpg)
 ***
 - 카테고리별 페이지
 ![카테고리](https://user-images.githubusercontent.com/66937966/106145031-64ec0c00-61b8-11eb-9f83-dea206ca0889.png)
