@@ -51,8 +51,5 @@
 - 도서 등록  
 ![도서등록](https://user-images.githubusercontent.com/66937966/106145142-84833480-61b8-11eb-9f88-30c1fd371965.png)
 ***
-- 도서 목록 조회  
+- 전체 도서 목록 조회 (관리자 메뉴)  
 ![도서조회](https://user-images.githubusercontent.com/66937966/106145274-a8df1100-61b8-11eb-8f00-2ff127843615.png)
-***
-- 주문 목록 조회  
-![주문조회](https://user-images.githubusercontent.com/66937966/106145303-b5636980-61b8-11eb-99a0-e583ec0578e8.png)
